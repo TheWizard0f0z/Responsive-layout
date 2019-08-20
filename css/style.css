@@ -104,6 +104,10 @@ body {
   color: #0097e6;
 }
 
+.btn-five:hover {
+  color: #33d9b2;
+}
+
 /* Navigation */
 .navigation {
   background: #0097e6;
